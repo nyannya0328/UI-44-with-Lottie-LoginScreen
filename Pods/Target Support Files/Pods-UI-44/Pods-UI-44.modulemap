@@ -1,0 +1,6 @@
+framework module Pods_UI_44 {
+  umbrella header "Pods-UI-44-umbrella.h"
+
+  export *
+  module * { export * }
+}
